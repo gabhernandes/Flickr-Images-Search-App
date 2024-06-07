@@ -18,6 +18,7 @@ The project aimed to develop an Android application using Kotlin and Jetpack Com
 - **Coroutines**: Used for managing asynchronous operations, such as fetching images from the Flickr API.
 - **MockK**: A mocking library for Kotlin used in unit testing.
 - **JUnit**: The standard framework for writing and running unit tests in Java and Kotlin.
+- **Espresso**: A testing framework for writing concise, beautiful, and reliable Android UI tests.
 
 ## Implementation Details
 
